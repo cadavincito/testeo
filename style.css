@@ -20,8 +20,8 @@ main {
     flex-direction: column;
 }
 footer {
-    background-color: #ff7439;
-    color: #fff;
+    background-color: #000000;
+    color: #ff7439;
     text-align: center;
     padding: 1em;
     width: 100%;
@@ -58,7 +58,7 @@ li {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     z-index: 1;
-    width: 40%;
+    width: 60%;
     flex-direction: column;
 }
 .modal-content {
